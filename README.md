@@ -10,7 +10,7 @@
   Hey there and welcome to my coding diary! I'm currently in my first year studying a double major BSc in Computer Sciences with Statistics and I'm extremely enthusiastic to learn and develop my skills.
 </p>
 
-<h2 align="center">💻Tech Stack</h2>:
+<h2 align="center">💻Tech Stack</h2>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <br>
