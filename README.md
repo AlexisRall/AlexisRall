@@ -7,7 +7,7 @@
 
 <h2 align="center">✨About Me</h2>
 <p>
-  Hey there and welcome to my coding diary! I'm currently in my first year studying a double major BSc in Computer Sciences with Statistics and I'm extremely enthusiastic to learn and develop my skills.
+  Hey there and welcome to my coding diary! I'm currently in my first year studying a double major BSc in Computer Sciences with Statistics. GitHub will be my little digital portfolio of all my coding endeavours throughout my university career.
 </p>
 
 <h2 align="center">💻Tech Stack</h2>
