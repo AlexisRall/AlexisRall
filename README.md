@@ -10,15 +10,14 @@
   Hey there and welcome to my coding diary! I'm currently in my first year studying a double major BSc in Computer Sciences with Statistics and I'm extremely enthusiastic to learn and develop my skills.
 </p>
 
-<h2 align="center">💻Tech Stack</h2>
+<h2 align="center">💻Tech Stack</h2>:
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-</div>
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlexisRall&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
