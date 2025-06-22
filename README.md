@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Alexis Rall's Coding Portfolio💗</h1>
+<h1 align="center">Welcome to Alexis Rall's Coding Portfolio🎀</h1>
 <div align="center">
 <p>
 🎓 1st Year BSc Computer Science with Statistics <br>
@@ -7,7 +7,7 @@
 
 <h2 align="center">✨About Me</h2>
 <p>
-  Hey there and welcome to my coding diary! I'm currently in my first year studying a double major BSc in Computer Sciences with Statistics. GitHub will be my little digital portfolio of all my coding endeavours throughout my university career.
+  Hey there and welcome to my coding diary! I'm currently in my first year studying a double major BSc in Computer Sciences with Statistics. GitHub will be my little digital portfolio of all my coding endeavours throughout my university career. The goal here is to expand my skills outside of my degree and to develop a large coding portfolio. I intend on tackling a project every month, starting in my second semester of my first year.
 </p>
 
 <h2 align="center">💻Tech Stack</h2>
